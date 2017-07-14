@@ -1,3 +1,4 @@
 Here is some text and a change
 With some changes to diff
+This is from SomeFeature branch
 Oh yes this will be great
