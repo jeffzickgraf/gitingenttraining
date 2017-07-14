@@ -2,5 +2,5 @@ Here is some text and a change
 Change in master branch line
 This is the Conflict branch line
 With some changes to diff
-This is from SomeFeature branch
-Oh yes this will be great
+This is from SomeFeature No
+Oh yes this will be great hey there
